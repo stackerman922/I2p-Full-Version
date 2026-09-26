@@ -235,4 +235,4 @@ This repository serves as the official landing page for I2P. The software is dis
 **Get the most recent version of I2P today!**
 
 ---
-**Last updated:** 2026-09-26 01:06:16 UTC
+**Last updated:** 2026-09-26 06:50:01 UTC
